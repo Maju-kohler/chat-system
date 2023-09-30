@@ -1,0 +1,1 @@
+//conversamos com o professor e ele disse que é ideal que a gente tenha classes emissor e receptor, para poder ter múltiplas streams

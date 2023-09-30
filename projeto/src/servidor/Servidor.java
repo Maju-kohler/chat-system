@@ -6,6 +6,7 @@ public class Servidor {
 
     //O servidor é reponsável somente por ser intermédio entre os usuários, roteando as mensagens entre eles
     //O servidor deve manter um log em arquivo dos clientes que se conectaram, contendo os endereços IP e a data e hora de conexão.
+    
     public static final int PORT = 4000;
     ServerSocket serverSocket;
 
